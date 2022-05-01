@@ -37,6 +37,15 @@ section {
   color: #fff;
   background: #224bcf;
 }
+#login{
+  font-size: 3rem;
+  color:#fff;
+  cursor: pointer;
+}
+
+ #login:hover{
+  color:#444;
+}
 
 .heading {
   background: url(../images/heading-bg.png) no-repeat;
