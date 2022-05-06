@@ -1,5 +1,5 @@
-let i = 0; // current slide
-let j = 4; // total slides
+let i = 0; // өмнөх хуудас
+let j = 4; // нийм хуудас
 
 const dots = document.querySelectorAll(".dot-container button");
 const images = document.querySelectorAll(".image-container img");
