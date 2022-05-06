@@ -9,8 +9,8 @@ body{
     height: 100vh;
     background: linear-gradient(
         135deg,
-        #8052ec,
-        #d161ff
+        #fa1d86,
+        #dd1d96
     );
 }
 .container{
@@ -52,17 +52,17 @@ button{
     height: 13px;
     width: 13px;
     border-radius: 50%;
-    border: 3px solid #8052ec;
+    border: 3px solid #fa1d86;
     background-color: transparent;
 }
 .dot-container button:nth-child(1){
-    background-color: #8052ec;
+    background-color: #fa1d86;
 }
 #prev,#next{
     height: 40px;
     width: 40px;
     position: absolute;
-    background-color: #8052ec;
+    background-color: #fa1d86;
     color: #ffffff;
     margin: auto;
     top: 0;
